@@ -10,7 +10,7 @@ Projet conçu en équipe avec : Adam, Handjy, Kyana
 ## La conception
 
 - L'intrigue : Luigi's Mansion
-- Le nombre d'énigmes : 3
+- Le nombre d'énigmes : 2
 - Le type d'énigmes : Shooter, Mathématiques, Informations réparties sur plusieurs documents
 - Les besoins matériels : Papiers, Meubles, Fenêtres, etc.
 - Les besoins technologiques : Manette, Afficher, etc.
