@@ -22,7 +22,7 @@ Projet conçu en équipe avec : Adam, Handjy, Kyana
 
 ## Les éléments importants
 
-- Engagement sensoriel : ...
+- Engagement sensoriel : outils mélodieux pour créé une environnement intense comme ; 
 - Conception spatiale : ...
 - Rétroaction : ...
 - Technologie invisible : ...
@@ -34,8 +34,8 @@ Projet conçu en équipe avec : Adam, Handjy, Kyana
 
 ## La promotion
 
-- Stratégie 1 : ... (pourquoi elle rejoint le public cible)
-- Stratégie 2 : ... (pourquoi elle rejoint le public cible)
+- Stratégie 1 : Promotion par Nintendo, où cela rejoindra un vaste public amateur de jeux intéractifs.
+- Stratégie 2 : Utiliser les résaux sociaux, toute applications où l'on peut publier du contenu, ainsi plusieurs personnes aurons accès.
 
 ## Les ressources
 
