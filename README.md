@@ -4,8 +4,8 @@ Projet conçu en équipe avec : Handjy, Kyana
 
 ## Le public cible
 
-- Pour qui : ...
-- Ce qui est important pour eux : ...
+- Pour qui : 10+
+- Ce qui est important pour eux : s'amuser, consignes claires, sécurité, se sentir intelligents
 
 ## La conception
 
