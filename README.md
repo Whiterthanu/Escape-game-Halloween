@@ -1,6 +1,6 @@
-# Titre de l'escape game
+# La Manoir de Minuit
 
-Projet conçu en équipe avec : Handjy, Kyana
+Projet conçu en équipe avec : Adam, Handjy, Kyana
 
 ## Le public cible
 
@@ -9,11 +9,11 @@ Projet conçu en équipe avec : Handjy, Kyana
 
 ## La conception
 
-- L'intrigue : ...
-- Le nombre d'énigmes : ...
-- Le type d'énigmes : ...
-- Les besoins matériels : ...
-- Les besoins technologiques : ...
+- L'intrigue : Luigi's Mansion
+- Le nombre d'énigmes : 3
+- Le type d'énigmes : Shooter, Mathématiques, Informations réparties sur plusieurs documents
+- Les besoins matériels : Papiers, Meubles, Fenêtres, etc.
+- Les besoins technologiques : Manette, Afficher, etc.
 - Les besoins humains : ...
 - Le plan des salles (croquis) :
 
