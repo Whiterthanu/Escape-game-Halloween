@@ -13,7 +13,7 @@ Projet conçu en équipe avec : Adam, Handjy, Kyana
 - Le nombre d'énigmes : 2
 - Le type d'énigmes : Shooter, Mathématiques, Informations réparties sur plusieurs documents
 - Les besoins matériels : Papiers, Meubles, Fenêtres, etc.
-- Les besoins technologiques : Manette, Afficher, etc.
+- Les besoins technologiques : Manette, projecteur, etc.
 - Les besoins humains : ...
 - Le plan des salles (croquis) :
 
