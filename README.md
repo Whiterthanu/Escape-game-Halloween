@@ -13,8 +13,8 @@ Projet conçu en équipe avec : Adam, Handjy, Kyana
 - Le nombre d'énigmes : 2
 - Le type d'énigmes : Shooter, Mathématiques, Informations réparties sur plusieurs documents
 - Les besoins matériels : Papiers, Meubles, Fenêtres, etc.
-- Les besoins technologiques : Manette, projecteur, etc.
-- Les besoins humains : ...
+- Les besoins technologiques : Manette, Projecteur, etc.
+- Les besoins humains : Manipulateur de jeu 
 - Le plan des salles (croquis) :
 
 ![Plan des salles](Plan-Escape-room.png
