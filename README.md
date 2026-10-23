@@ -17,7 +17,7 @@ Projet conçu en équipe avec : Adam, Handjy, Kyana
 - Les besoins humains : ...
 - Le plan des salles (croquis) :
 
-![Plan des salles](<img width="2304" height="1296" alt="Plan-Escape-room" src="https://github.com/user-attachments/assets/82b9d1c4-b389-4665-b3a1-526cc5797134" />
+![Plan des salles](Plan-Escape-room.png
 )
 
 ## Les éléments importants
